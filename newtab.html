@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Photo Memories</title>
+    <style>
+        /* Styles for the frame and centered content */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000000; /* Optional: light background color */
+}
+
+.frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%; /* Adjust width as necessary */
+    max-width: 800px; /* Maximum width of the frame */
+    height: 80%; /* Adjust height as necessary */
+    border: 10px solid black; /* White frame around the content */
+    background-color: black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: add shadow to the frame */
+}
+
+img, video {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Ensures media stays within the frame without distortion */
+}
+
+    </style>
+</head>
+<body>
+    <img id="slideshow" src="" alt="Memory">
+    <script src="newtab.js"></script>
+</body>
+</html>
