@@ -1,5 +1,5 @@
 const repoUrl = "https://api.github.com/repos/zayn0001/christmas-gift/contents/";
-const baseGitHubPagesUrl = "https://zayn0001.github.io/christmas-gift/";
+const baseGitHubPagesUrl = "https://zayn0001.github.io/christmas-gift/media";
 
 async function fetchMedia() {
     try {
