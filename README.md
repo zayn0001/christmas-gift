@@ -9,7 +9,7 @@ This Chrome extension displays random images or videos of my girlfriend from a g
 Clone this repository or download it as a ZIP file.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/zayn0001/christmas-gift.git
 ```
 
 ### 2. Open Extensions bar
