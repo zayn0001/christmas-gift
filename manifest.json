@@ -1,13 +1,16 @@
 {
-    "manifest_version": 3,
-    "name": "Merry Christmas my love",
-    "version": "1.0",
-    "description": "Replaces the new tab with a slideshow of your photos.",
-    "chrome_url_overrides": {
-      "newtab": "newtab.html"
-    },
-    "permissions": [
-    ],
-    "host_permissions": []
+  "manifest_version": 3,
+  "name": "Merry Christmas my love",
+  "version": "1.0",
+  "description": "Replaces the new tab with a slideshow of photos and videos of you. As the days pass by, it will fill with ones that I take of you or make for you so you can forever have a way of seeing yourself the way I see you.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [],
+  "host_permissions": [],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
   }
-  
+}
