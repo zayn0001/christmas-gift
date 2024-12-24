@@ -20,3 +20,5 @@ Type chrome://extensions in the address bar and press Enter.
 
 Click on Load unpacked and select the folder you cloned
 
+### 4. Now open a new tab in chrome
+
