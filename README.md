@@ -14,7 +14,7 @@ git clone https://github.com/zayn0001/christmas-gift.git
 
 ### 2. Open Extensions bar
 
-Type chrome://extensions in the address bar and press Enter.
+Type chrome://extensions in the address bar and press Enter and switch on developer mode in top right corner
 
 ### 3. Load the Extension
 
